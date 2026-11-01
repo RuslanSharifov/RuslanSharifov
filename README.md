@@ -91,11 +91,11 @@ Computer Science
 
 ## Connect With Me
 
-[![GitHub](https://img.shields.io/badge/GitHub-Ruaaln-181717?style=for-the-badge\&logo=github)](https://github.com/Ruaaln)
+[![GitHub](https://img.shields.io/badge/GitHub-Ruaaln-181717?style=for-the-badge\&logo=github)](https://github.com/RuslanSharifov)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](LINKEDIN_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)]([LINKEDIN_URL](https://www.linkedin.com/in/ruslan-serifov-143ab42a1/))
 
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:YOUR_EMAIL)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ruslan.sharifov.dev@gmail.com)
 
 ---
 
